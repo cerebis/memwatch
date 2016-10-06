@@ -5,3 +5,6 @@ would mean another person might save some time.
 
 ### MemWatch
 Track the rise and fall of a process' instantaneous and peak resident memory usage. Also reports usage of child processes.
+
+Requires:
+- psutil
